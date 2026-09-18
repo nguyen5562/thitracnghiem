@@ -1,0 +1,231 @@
+:root {
+    --bg-color: #f0f8ff;
+    --text-color: #333;
+    --primary-color: #4facfe;
+    --secondary-color: #00f2fe;
+    --danger-color: #ff758c;
+    --success-color: #42e695;
+    --wrong-color: #ff5252;
+    --correct-color: #4caf50;
+    --box-bg: #ffffff;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, var(--bg-color), #e0c3fc);
+    color: var(--text-color);
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#root {
+    width: 100%;
+    max-width: 600px;
+    background: var(--box-bg);
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    overflow: hidden;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.screen {
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+h1 {
+    text-align: center;
+    color: #4facfe;
+    margin-bottom: 10px;
+}
+
+p {
+    text-align: center;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.btn {
+    border: none;
+    padding: 15px 20px;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    width: 100%;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.btn:active {
+    transform: scale(0.98);
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+}
+
+.btn-danger {
+    background: linear-gradient(135deg, var(--danger-color), #ff7eb3);
+}
+
+.btn-success {
+    background: linear-gradient(135deg, var(--success-color), #3bb2b8);
+}
+
+.btn-nav {
+    background: #e0e0e0;
+    color: #333;
+    width: auto;
+    padding: 10px 20px;
+}
+
+.btn-small {
+    background: transparent;
+    color: #666;
+    padding: 5px 10px;
+    width: auto;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.btn-small:hover {
+    color: var(--primary-color);
+}
+
+/* Quiz UI */
+.quiz-header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#timer {
+    font-weight: bold;
+    color: var(--danger-color);
+    background: #ffe5e5;
+    padding: 5px 15px;
+    border-radius: 20px;
+}
+
+.progress {
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+.question-box {
+    width: 100%;
+    margin-bottom: 20px;
+    flex: 1;
+}
+
+#question-text {
+    font-size: 18px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+    color: #2c3e50;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.option {
+    background: #f8f9fa;
+    border: 2px solid #e9ecef;
+    border-radius: 12px;
+    padding: 15px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 16px;
+    color: #333;
+}
+
+.option:hover:not(.disabled) {
+    background: #e2e6ea;
+    border-color: #dae0e5;
+}
+
+.option.correct {
+    background: #d4edda;
+    border-color: var(--correct-color);
+    color: #155724;
+}
+
+.option.wrong {
+    background: #f8d7da;
+    border-color: var(--wrong-color);
+    color: #721c24;
+}
+
+.option.disabled {
+    pointer-events: none;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+/* Result Screen */
+.score-card {
+    background: #f8f9fa;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+#score-text {
+    font-size: 32px;
+    color: var(--primary-color);
+    margin: 0 0 10px 0;
+}
+
+#score-msg {
+    font-size: 18px;
+    color: #666;
+    margin: 0;
+}
+
+@media (max-width: 480px) {
+    #root {
+        min-height: 100vh;
+        border-radius: 0;
+    }
+    body {
+        padding: 0;
+    }
+}
