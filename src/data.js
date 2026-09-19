@@ -987,9 +987,13 @@ const questions = [
       {
         "id": "C",
         "text": "Khởi chạy phần mềm kiểm kê đã cài đặt năm trước, cập nhật bổ sung danh mục vật tư mới trước khi cập nhật số liệu kiểm kê."
+      },
+      {
+        "id": "D",
+        "text": "Cả 3 yêu cầu A,B,C"
       }
     ],
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": "Câu 53",
@@ -1009,10 +1013,14 @@ const questions = [
       },
       {
         "id": "D",
-        "text": "Vật tư do trên cấp nhưng không có đơn giá. E Tất cả các vật tư hàng hóa từ các nguồn đều phải kiểm kê."
+        "text": "Vật tư do trên cấp nhưng không có đơn giá."
+      },
+      {
+        "id": "E",
+        "text": "Tất cả các vật tư hàng hóa từ các nguồn đều phải kiểm kê."
       }
     ],
-    "answer": "D"
+    "answer": "E"
   },
   {
     "id": "Câu 54",
@@ -1267,7 +1275,7 @@ const questions = [
         "text": "60 ống"
       }
     ],
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": "Câu 67",
