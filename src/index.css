@@ -220,6 +220,20 @@ p {
     margin: 0;
 }
 
+.range-input {
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    width: 100%;
+    font-size: 14px;
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.range-input:focus {
+    border-color: var(--primary-color);
+}
+
 @media (max-width: 480px) {
     #root {
         min-height: 100vh;
@@ -227,5 +241,22 @@ p {
     }
     body {
         padding: 0;
+    }
+    .screen {
+        padding: 20px 15px;
+    }
+    h1 {
+        font-size: 24px;
+    }
+    .btn {
+        padding: 12px 15px;
+        font-size: 14px;
+    }
+    #question-text {
+        font-size: 16px;
+    }
+    .option {
+        padding: 12px;
+        font-size: 14px;
     }
 }

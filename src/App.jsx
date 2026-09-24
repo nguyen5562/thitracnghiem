@@ -8,6 +8,8 @@ function App() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [userAnswers, setUserAnswers] = useState({});
   const [timeLeft, setTimeLeft] = useState(30 * 60);
+  const [startRange, setStartRange] = useState(1);
+  const [endRange, setEndRange] = useState(questionsData.length);
 
   useEffect(() => {
     let timer;
@@ -28,7 +30,19 @@ function App() {
 
   const startPractice = () => {
     setMode('practice');
-    setQuestions([...questionsData]);
+    
+    let start = parseInt(startRange, 10);
+    let end = parseInt(endRange, 10);
+    
+    if (isNaN(start) || start < 1) start = 1;
+    if (isNaN(end) || end > questionsData.length) end = questionsData.length;
+    if (start > end) {
+      alert("Khoảng câu hỏi không hợp lệ!");
+      return;
+    }
+
+    const selectedQuestions = questionsData.slice(start - 1, end);
+    setQuestions(selectedQuestions);
     setCurrentIndex(0);
     setUserAnswers({});
     setScreen('quiz');
@@ -76,8 +90,37 @@ function App() {
       <div className="screen active">
         <h1>📚 Ôn Tập Kiến Thức 🚀</h1>
         <p>Chọn chế độ để bắt đầu!</p>
-        <div style={{ width: '100%', maxWidth: '300px' }}>
-          <button className="btn btn-primary" onClick={startPractice}>📖 Luyện Tập (Tất cả)</button>
+        <div style={{ width: '100%', maxWidth: '320px' }}>
+          <div className="range-selection" style={{ background: '#f8f9fa', padding: '15px', borderRadius: '12px', border: '1px solid #e9ecef', marginBottom: '15px' }}>
+            <h3 style={{ margin: '0 0 10px 0', fontSize: '16px', color: '#2c3e50', textAlign: 'center' }}>⚙️ Tùy chọn luyện tập</h3>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '10px', marginBottom: '10px' }}>
+              <div style={{ display: 'flex', flexDirection: 'column', flex: 1 }}>
+                <label style={{ fontSize: '12px', color: '#666', marginBottom: '4px' }}>Từ câu:</label>
+                <input 
+                  type="number" 
+                  min="1" 
+                  max={questionsData.length} 
+                  value={startRange} 
+                  onChange={(e) => setStartRange(e.target.value)}
+                  className="range-input"
+                />
+              </div>
+              <span style={{ marginTop: '20px', color: '#666', fontWeight: 'bold' }}>-</span>
+              <div style={{ display: 'flex', flexDirection: 'column', flex: 1 }}>
+                <label style={{ fontSize: '12px', color: '#666', marginBottom: '4px' }}>Đến câu:</label>
+                <input 
+                  type="number" 
+                  min="1" 
+                  max={questionsData.length} 
+                  value={endRange} 
+                  onChange={(e) => setEndRange(e.target.value)}
+                  className="range-input"
+                />
+              </div>
+            </div>
+            <p style={{ margin: '0 0 10px 0', fontSize: '12px', color: '#999', textAlign: 'center' }}>Tổng: {questionsData.length} câu</p>
+            <button className="btn btn-primary" onClick={startPractice} style={{ marginBottom: 0 }}>📖 Bắt Đầu Luyện Tập</button>
+          </div>
           <button className="btn btn-danger" onClick={startExam}>⏳ Thi Thử (60 câu - 30 phút)</button>
         </div>
       </div>
@@ -112,8 +155,8 @@ function App() {
   const hasAnswered = !!userAnswers[currentIndex];
   const isLast = currentIndex === questions.length - 1;
 
-  let prefix = mode === 'practice' ? `${q.id} / ` : `Câu ${currentIndex + 1}/`;
-  let total = mode === 'practice' ? questions.length : 60;
+  let prefix = `Câu ${currentIndex + 1}/`;
+  let total = mode === 'practice' ? `${questions.length} (Gốc: ${q.id})` : 60;
 
   return (
     <div className="screen active" style={{ justifyContent: 'flex-start' }}>
