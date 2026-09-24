@@ -2112,6 +2112,804 @@ const questions = [
       }
     ],
     "answer": "B"
+  },
+  {
+    "id": "Câu 111",
+    "text": "Theo tính chất quản lý, trang bị kỹ thuật được phân thành bao nhiêu nhóm?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4 nhóm."
+      },
+      {
+        "id": "B",
+        "text": "3 nhóm"
+      },
+      {
+        "id": "C",
+        "text": "2 nhóm."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "Câu 112",
+    "text": "Trong công tác bảo đảm trang bị kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đề xuất loại khỏi trang bị là một nội dung của bảo đảm trang bị kỹ thuật."
+      },
+      {
+        "id": "B",
+        "text": "Đề xuất loại khỏi trang bị quân sự và tổ chức xử lý trang bị kỹ thuật là một nội dung của bảo đảm trang bị kỹ thuật."
+      },
+      {
+        "id": "C",
+        "text": "Đề xuất loại khỏi trang bị quân sự và xử lý là một nội dung của bảo đảm trang bị kỹ thuật."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 113",
+    "text": "Trong xử lý trang bị kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Khi xử lý, phải tận dụng chi tiết, vật tư, phụ tùng còn sử dụng được; tổ chức tháo gỡ, thu hồi và quản lý để phục vụ cho công tác bảo đảm kỹ thuật."
+      },
+      {
+        "id": "B",
+        "text": "Khi xử lý, phải tận dụng chi tiết, cụm chi tiết, vật tư, phụ tùng còn sử dụng được; tổ chức tháo gỡ, thu hồi và quản lý chặt chẽ để phục vụ cho công tác bảo đảm kỹ thuật."
+      },
+      {
+        "id": "C",
+        "text": "Khi xử lý, phải tận dụng chi tiết, cụm chi tiết, vật tư, phụ tùng còn sử dụng được; tổ chức tháo gỡ và quản lý để phục vụ cho công tác bảo đảm kỹ thuật."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 114",
+    "text": "Khi mở niêm cất trang bị kỹ thuật trong trường hợp khẩn cấp, yêu cầu như thế nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trường hợp khẩn cấp do nguy cơ bị thiên tai hoặc bị tập kích bất ngờ uy hiếp an toàn trang bị kỹ thuật, được phép mở niêm, đưa trang bị ra khỏi nơi nguy hiểm theo mệnh lệnh của người chỉ huy."
+      },
+      {
+        "id": "B",
+        "text": "Trường hợp khẩn cấp do nguy cơ bị thiên tai, hỏa hoạn hoặc bị tập kích bất ngờ uy hiếp an toàn trang bị kỹ thuật, được phép mở niêm, đưa trang bị kỹ thuật ra khỏi nơi nguy hiểm theo mệnh lệnh của người chỉ huy và phải báo cáo kịp thời với cấp trên."
+      },
+      {
+        "id": "C",
+        "text": "Trường hợp khẩn cấp do nguy cơ bị thiên tai, hỏa hoạn hoặc bị tập kích bất ngờ uy hiếp an toàn trang bị kỹ thuật, được phép mở niêm, đưa vũ khí, trang bị ra khỏi nơi nguy hiểm và phải báo cáo kịp thời với cơ quan quản lý cấp trên."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 115",
+    "text": "Cuộc vận động “Quản lý, khai thác vũ khí trang bị kỹ thuật tốt, bền, an toàn, tiết kiệm và an toàn giao thông” (gọi tắt là CVĐ 50) ra đời trên cơ sở kế thừa cuộc vận động nào của Ngành Xe-Máy quân đội?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Sử dụng ô tô an toàn”"
+      },
+      {
+        "id": "B",
+        "text": "“Sử dụng xe an toàn”"
+      },
+      {
+        "id": "C",
+        "text": "“Sử dụng xe-máy an toàn”"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 116",
+    "text": "Theo chức năng, trang bị kỹ thuật được phân thành bao nhiêu nhóm?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 nhóm."
+      },
+      {
+        "id": "B",
+        "text": "3 nhóm."
+      },
+      {
+        "id": "C",
+        "text": "5 nhóm."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 117",
+    "text": "Trong cất giữ trang bị kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Quản lý trang bị và đồng bộ theo yêu cầu nhiệm vụ; Giữ gìn, bảo vệ tránh mất mát, hư hỏng, nhầm lẫn trang bị kỹ thuật và đồng bộ; Duy trì thực hiện chế độ bảo quản, bảo dưỡng kỹ thuật đúng quy định."
+      },
+      {
+        "id": "B",
+        "text": "Quản lý, sắp xếp trang bị và đồng bộ theo yêu cầu nhiệm vụ; Giữ gìn, bảo vệ tránh mất mát, hư hỏng, nhầm lẫn trang bị kỹ thuật và đồng bộ; Duy trì thực hiện chế độ bảo quản, bảo dưỡng kỹ thuật đúng quy định."
+      },
+      {
+        "id": "C",
+        "text": "Quản lý, sắp xếp trang bị và đồng bộ theo yêu cầu nhiệm vụ; Giữ gìn, bảo vệ tránh mất mát, hư hỏng trang bị kỹ thuật và đồng bộ; Duy trì thực hiện chế độ bảo dưỡng kỹ thuật đúng quy định."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 118",
+    "text": "Trong Nội dung bảo đảm kỹ thuật cho trang bị; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nội dung bảo đảm kỹ thuật gồm: Chuẩn bị sử dụng trang bị kỹ thuật; Bảo quản trang bị kỹ thuật; Bảo dưỡng kỹ thuật; Sửa chữa trang bị kỹ thuật; Niêm cất trang bị kỹ thuật; Tăng hạn sử dụng trang bị kỹ thuật."
+      },
+      {
+        "id": "B",
+        "text": "Nội dung bảo đảm kỹ thuật gồm: Chuẩn bị sử dụng trang bị kỹ thuật; Bảo dưỡng kỹ thuật; Sửa chữa Trang bị kỹ thuật; Niêm cất, mở niêm cất trang bị kỹ thuật; Tăng hạn sử dụng trang bị kỹ thuật."
+      },
+      {
+        "id": "C",
+        "text": "Nội dung bảo đảm kỹ thuật gồm: Chuẩn bị sử dụng trang bị kỹ thuật; Bảo quản trang bị kỹ thuật; Bảo dưỡng kỹ thuật; Sửa chữa Trang bị kỹ thuật; Niêm cất, mở niêm cất trang bị kỹ thuật; Tăng hạn sử dụng trang bị kỹ thuật."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "Câu 119",
+    "text": "Trong Bảo đảm vật tư kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Vật tư kỹ thuật được bảo đảm theo phân cấp, đủ số lượng, chất lượng, đồng bộ, đáp ứng yêu cầu, nhiệm vụ của đơn vị. Chỉ huy đơn vị trực tiếp quản lý, bảo quản, bảo dưỡng, cất giữ và sử dụng vật tư kỹ thuật đúng quy định, hướng dẫn của cơ quan đầu chuyên ngành kỹ thuật."
+      },
+      {
+        "id": "B",
+        "text": "Vật tư kỹ thuật được bảo đảm theo phân cấp, kịp thời, đủ số lượng, chất lượng, đồng bộ đúng chủng loại, đáp ứng yêu cầu, nhiệm vụ của đơn vị. Chỉ huy đơn vị trực tiếp quản lý, bảo quản, bảo dưỡng, cất giữ và sử dụng vật tư kỹ thuật đúng quy định, hướng dẫn của cơ quan đầu chuyên ngành kỹ thuật."
+      },
+      {
+        "id": "C",
+        "text": "Vật tư kỹ thuật được bảo đảm theo phân cấp, đủ số lượng, chất lượng, đồng bộ đúng chủng loại, đáp ứng yêu cầu, nhiệm vụ của đơn vị. Chỉ huy đơn vị trực tiếp bảo quản, bảo dưỡng, cất giữ và sử dụng vật tư kỹ thuật đúng quy định, hướng dẫn của cơ quan đầu chuyên ngành kỹ thuật."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 120",
+    "text": "Trong nội dung quản lý vật tư kỹ thuật;  đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nội dung quản lý vật tư kỹ thuật gồm: Tạo nguồn, mua sắm vật tư kỹ thuật; Bảo quản, bảo dưỡng, sửa chữa, niêm cất vật tư kỹ thuật; Sử dụng vật tư kỹ thuật; Cấp phát vật tư kỹ thuật; Dự trữ vật tư kỹ thuật; Đăng ký, thống kê, kiểm kê vật tư kỹ thuật; Báo cáo, kiểm tra công tác vật tư kỹ thuật; Thanh quyết toán vật tư kỹ thuật."
+      },
+      {
+        "id": "B",
+        "text": "Nội dung quản lý vật tư kỹ thuật gồm: Tạo nguồn, mua sắm vật tư kỹ thuật; Cất giữ vật tư kỹ thuật; Bảo quản, bảo dưỡng, sửa chữa, niêm cất vật tư kỹ thuật; Sử dụng vật tư kỹ thuật; Cấp phát vật tư kỹ thuật; Dự trữ vật tư kỹ thuật; Đăng ký, thống kê, kiểm kê vật tư kỹ thuật; Báo cáo, kiểm tra công tác vật tư kỹ thuật; Thanh quyết toán vật tư kỹ thuật."
+      },
+      {
+        "id": "C",
+        "text": "Nội dung quản lý vật tư kỹ thuật gồm: Tạo nguồn, mua sắm vật tư kỹ thuật; Sử dụng vật tư kỹ thuật; Cấp phát vật tư kỹ thuật; Dự trữ vật tư kỹ thuật; Đăng ký, thống kê, kiểm kê vật tư kỹ thuật; Báo cáo, kiểm tra công tác vật tư kỹ thuật; Thanh quyết toán vật tư kỹ thuật."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 121",
+    "text": "Trong tiếp nhận trang bị kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đơn vị tiếp nhận kiểm tra cụ thể trang bị kỹ thuật khi tiếp nhận. Chỉ tiếp nhận trang bị với đầy đủ số lượng; chất lượng, đồng bộ tốt; đúng chủng loại, nhãn hiệu trong quyết định của cấp có thẩm quyền."
+      },
+      {
+        "id": "B",
+        "text": "Đơn vị tiếp nhận kiểm tra trang bị kỹ thuật khi tiếp nhận. Chỉ tiếp nhận trang bị với đầy đủ số lượng; chất lượng tốt; đúng chủng loại, nhãn hiệu trong quyết định của cấp có thẩm quyền."
+      },
+      {
+        "id": "C",
+        "text": "Đơn vị tiếp nhận kiểm tra cụ thể trang bị kỹ thuật khi tiếp nhận. Chỉ tiếp nhận trang bị với đầy đủ số lượng, chất lượng; đúng chủng loại, nhãn hiệu trong quyết định của cấp có thẩm quyền."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Câu 122",
+    "text": "Trong nội dung chuẩn bị sử dụng trang bị kỹ thuật;  đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nội dung chuẩn bị sử dụng trang bị kỹ thuật gồm:  Kiểm tra kỹ thuật; Tra nạp dầu, mỡ theo quy định; Kiểm chuẩn, hiệu chỉnh trang bị kỹ thuật; Đồng bộ theo trang bị kỹ thuật."
+      },
+      {
+        "id": "B",
+        "text": "Nội dung chuẩn bị sử dụng trang bị kỹ thuật gồm: Kiểm tra kỹ thuật; Tra nạp dầu, mỡ theo quy định; Kiểm tra, điều chỉnh trang bị kỹ thuật; Đồng bộ theo trang bị kỹ thuật."
+      },
+      {
+        "id": "C",
+        "text": "Nội dung chuẩn bị sử dụng trang bị kỹ thuật gồm: Kiểm tra kỹ thuật; Tra nạp dầu, mỡ; Kiểm tra, hiệu chỉnh trang bị kỹ thuật; Đồng bộ theo trang bị kỹ thuật."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Câu 123",
+    "text": "Trong phân nhóm trang bị kỹ thuật theo tính chất quản lý. Cơ quan quản lý và bảo đảm trang bị kỹ thuật nhóm 1 là cơ quan nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cơ quan Chính trị."
+      },
+      {
+        "id": "B",
+        "text": "Cơ quan tham mưu."
+      },
+      {
+        "id": "C",
+        "text": "Cơ quan kỹ thuật."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 124",
+    "text": "Trong phân nhóm trang bị kỹ thuật theo chức năng; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nhóm trang bị chính: Trực tiếp tạo nên hỏa lực, bảo đảm cơ động, bảo đảm chiến đấu."
+      },
+      {
+        "id": "B",
+        "text": "Nhóm trang bị chính: trực tiếp tạo nên sức mạnh chiến đấu của bộ đội, bảo đảm cơ động, bảo đảm cho tác chiến."
+      },
+      {
+        "id": "C",
+        "text": "Nhóm trang bị chính: trực tiếp tạo nên sức mạnh chiến đấu của bộ đội, bảo đảm cho hành quân, cơ động, bảo đảm chiến đấu."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Câu 125",
+    "text": "Bảo dưỡng kỹ thuật là tiến hành các hoạt động như thế nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kiểm tra tham số kỹ thuật và các nội dung khác theo quy định của nhà sản xuất và hướng dẫn của chuyên ngành kỹ thuật nhằm duy trì tính năng chiến- kỹ thuật của trang bị và khắc phục hỏng hóc."
+      },
+      {
+        "id": "B",
+        "text": "Kiểm tra, điều chỉnh tham số kỹ thuật và các nội dung khác theo quy định của nhà sản xuất và hướng dẫn của chuyên ngành kỹ thuật nhằm duy trì tính năng chiến- kỹ thuật của trang bị kỹ thuật và phòng ngừa hỏng hóc."
+      },
+      {
+        "id": "C",
+        "text": "Kiểm tra, điều chỉnh tham số kỹ thuật và các nội dung khác theo quy định của nhà sản xuất nhằm duy trì tính năng kỹ thuật của trang bị và phòng ngừa hỏng hóc."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 126",
+    "text": "Trong Huấn luyện kỹ thuật tại đơn vị bao gồm các hình thức nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Huấn luyện thường xuyên; Bổ túc, bồi dưỡng, tập huấn, hội thi, hội thao kỹ thuật; Huấn luyện, kiểm tra đánh giá năng lực, trình độ chuyên môn kỹ thuật đối với nhân viên kỹ thuật sau huấn luyện."
+      },
+      {
+        "id": "B",
+        "text": "Huấn luyện thường xuyên theo quy định; Bổ túc, bồi dưỡng, tập huấn, hội thi, hội thao kỹ thuật; Huấn luyện, kiểm tra đánh giá năng lực, trình độ chuyên môn kỹ thuật đối với nhân viên kỹ thuật sau huấn luyện; diễn tập."
+      },
+      {
+        "id": "C",
+        "text": "Huấn luyện thường xuyên; Bổ túc, bồi dưỡng, tập huấn, hội thi kỹ thuật; Huấn luyện, kiểm tra đánh giá năng lực, trình độ chuyên môn kỹ thuật đối với nhân viên kỹ thuật sau huấn luyện; diễn tập."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 127",
+    "text": "Đồng chí cho biết: Yêu cầu trong thực hiện Ngày kỹ thuật tại đơn vị?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đơn vị cấp tiểu đoàn và tương đương trở xuống một tuần tổ chức một ngày kỹ thuật; đơn vị cấp lữ đoàn, trung đoàn và tương đương một tháng tổ chức một ngày kỹ thuật; Mọi quân nhân, công nhân và viên chức quốc phòng liên quan đến quản lý, khai thác trang bị kỹ thuật phải tham gia ngày kỹ thuật."
+      },
+      {
+        "id": "B",
+        "text": "Đơn vị cấp tiểu đoàn và tương đương trở xuống một tuần tổ chức một ngày kỹ thuật; đơn vị cấp lữ đoàn, trung đoàn và tương đương hai tuần tổ chức một ngày kỹ thuật; Các đơn vị quản lý, sử dụng trang bị kỹ thuật đặc chủng, thời gian thực hiện ngày kỹ thuật theo quy định của chuyên ngành; Mọi quân nhân, công nhân và viên chức quốc phòng liên quan đến khai thác trang bị kỹ thuật phải tham gia ngày kỹ thuật."
+      },
+      {
+        "id": "C",
+        "text": "Đơn vị cấp tiểu đoàn và tương đương trở xuống một tuần tổ chức một ngày kỹ thuật; đơn vị cấp lữ đoàn, trung đoàn và tương đương hai tuần tổ chức một ngày kỹ thuật; Các đơn vị quản lý, sử dụng trang bị kỹ thuật đặc chủng, thời gian thực hiện ngày kỹ thuật theo quy định của chuyên ngành; Mọi quân nhân, công nhân và viên chức quốc phòng liên quan đến quản lý, khai thác trang bị kỹ thuật phải tham gia ngày kỹ thuật."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 128",
+    "text": "Trong công tác bảo đảm trang bị kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tham gia tạo nguồn trang bị kỹ thuật, phối hợp kiểm tra chất lượng trang bị kỹ thuật được tạo nguồn là một nội dung của bảo đảm trang bị kỹ thuật."
+      },
+      {
+        "id": "B",
+        "text": "Tham gia tạo nguồn trang bị kỹ thuật, kiểm tra chất lượng trang bị kỹ thuật được tạo nguồn là một nội dung của bảo đảm trang bị kỹ thuật."
+      },
+      {
+        "id": "C",
+        "text": "Tham gia tạo nguồn trang bị kỹ thuật, phối hợp kiểm tra, giám sát chất lượng trang bị kỹ thuật được tạo nguồn là một nội dung của bảo đảm trang bị kỹ thuật."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "Câu 129",
+    "text": "Trong phân nhóm trang bị kỹ thuật theo chức năng; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nhóm trang bị bổ trợ: Là trang bị phục vụ cho vũ khí, trang bị chính hoạt động và đồng bộ với khí tài."
+      },
+      {
+        "id": "B",
+        "text": "Nhóm trang bị bổ trợ: Phục vụ cho trang bị chính hoạt động, đồng bộ với trang bị chính."
+      },
+      {
+        "id": "C",
+        "text": "Nhóm trang bị bổ trợ: Phục vụ cho vũ khí, trang bị chính và được đồng bộ hoàn chỉnh."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 130",
+    "text": "Sửa chữa trang bị kỹ thuật được phân cấp như thế nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sửa chữa nhỏ thực hiện tại đơn vị hoặc trạm sửa chữa tổng hợp; Sửa chữa vừa thực hiện tại nhà máy, xưởng, tiểu đoàn sửa chữa; Sửa chữa lớn thực hiện tại nhà máy, xí nghiệp, xưởng sửa chữa."
+      },
+      {
+        "id": "B",
+        "text": "Sửa chữa nhỏ thực hiện tại đơn vị hoặc trạm sửa chữa tổng hợp; Sửa chữa vừa thực hiện tại xưởng, tiểu đoàn sửa chữa; Sửa chữa lớn thực hiện tại nhà máy, xí nghiệp, xưởng sửa chữa."
+      },
+      {
+        "id": "C",
+        "text": "Sửa chữa nhỏ thực hiện tại đơn vị hoặc trạm sửa chữa tổng hợp; Sửa chữa vừa thực hiện tại nhà máy, xưởng, tiểu đoàn sửa chữa; Sửa chữa lớn thực hiện tại nhà máy, xí nghiệp."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Câu 131",
+    "text": "Trong Công tác an toàn vệ sinh lao động; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Công tác an toàn vệ sinh lao động gồm hệ thống các giải pháp, chống tác động của các yếu tố nguy hiểm, nhằm đảm bảo an toàn, không xảy ra thương tật, tử vong và gây bệnh tật đối với con người trong quá trình lao động; bảo vệ tài sản của Nhà nước và Quân đội."
+      },
+      {
+        "id": "B",
+        "text": "Công tác an toàn vệ sinh lao động gồm hệ thống các giải pháp, chống tác động của các yếu tố nguy hiểm, có hại nhằm đảm bảo an toàn, không xảy ra thương tật, tử vong và gây bệnh tật, làm suy giảm sức khỏe đối với con người trong quá trình lao động; bảo vệ tài sản của Nhà nước và Quân đội."
+      },
+      {
+        "id": "C",
+        "text": "Công tác an toàn vệ sinh lao động gồm hệ thống các giải pháp, chống tác động của các yếu tố có hại nhằm đảm bảo an toàn, không xảy ra thương tật, tử vong và gây bệnh tật, làm suy giảm sức khỏe đối với con người; bảo vệ tài sản của Nhà nước và Quân đội."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 132",
+    "text": "Trong công tác bảo đảm trang bị kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Phân nhóm, phân cấp chất lượng trang bị kỹ thuật là một nội dung của bảo đảm trang bị kỹ thuật."
+      },
+      {
+        "id": "B",
+        "text": "Phân nhóm chất lượng trang bị kỹ thuật là một nội dung của bảo đảm trang bị kỹ thuật."
+      },
+      {
+        "id": "C",
+        "text": "Phân nhóm, phân cấp chất lượng kỹ thuật là một nội dung của bảo đảm trang bị kỹ thuật."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Câu 133",
+    "text": "Khi mở niêm cất trang bị kỹ thuật trong trường hợp khẩn cấp, yêu cầu như thế nào?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trường hợp khẩn cấp do nguy cơ bị thiên tai hoặc bị tập kích bất ngờ uy hiếp an toàn trang bị kỹ thuật, được phép mở niêm, đưa trang bị ra khỏi nơi nguy hiểm theo mệnh lệnh của người chỉ huy."
+      },
+      {
+        "id": "B",
+        "text": "Trường hợp khẩn cấp do nguy cơ bị thiên tai, hỏa hoạn hoặc bị tập kích bất ngờ uy hiếp an toàn trang bị kỹ thuật, được phép mở niêm, đưa trang bị kỹ thuật ra khỏi nơi nguy hiểm theo mệnh lệnh của người chỉ huy và phải báo cáo kịp thời với cấp trên."
+      },
+      {
+        "id": "C",
+        "text": "Trường hợp khẩn cấp do nguy cơ bị thiên tai, hỏa hoạn hoặc bị tập kích bất ngờ uy hiếp an toàn trang bị kỹ thuật, được phép mở niêm, đưa vũ khí, trang bị ra khỏi nơi nguy hiểm và phải báo cáo kịp thời với cơ quan quản lý cấp trên."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 134",
+    "text": "Trong công tác bảo đảm trang bị kỹ thuật; đồng chí chọn phương án trả lời đúng trong các phương án trả lời a, b, c sau:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đề xuất loại khỏi trang bị là một nội dung của bảo đảm trang bị kỹ thuật."
+      },
+      {
+        "id": "B",
+        "text": "Đề xuất loại khỏi trang bị quân sự và tổ chức xử lý trang bị kỹ thuật là một nội dung của bảo đảm trang bị kỹ thuật."
+      },
+      {
+        "id": "C",
+        "text": "Đề xuất loại khỏi trang bị quân sự và xử lý là một nội dung của bảo đảm trang bị kỹ thuật."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 135",
+    "text": "Khí tài hóa học bao gồm",
+    "options": [
+      {
+        "id": "A",
+        "text": "A. Khí tài để phòng; khí tài trinh sát; khí tài tiêu tẩy; khí tài khôi phục; hóa chất thuộc thục chuyên dùng; khí tài hóa học khác"
+      },
+      {
+        "id": "B",
+        "text": "B. Khí tài để phòng; khí tài trinh sát; khí tài tiêu tẩy; khí tài huấn luyện; hóa chất thuộc thục chuyên dùng; khí tài sửa chữa"
+      },
+      {
+        "id": "C",
+        "text": "C. Khí tài để phòng; khí tài trinh sát; khí tài tiêu tẩy; khí tài khôi phục; hóa chất thuộc thục chuyên dùng; khí tài sửa chữa; khí tài hóa học khác"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "Câu 136",
+    "text": "Nội dung công tác quản lý trang bị hóa học",
+    "options": [
+      {
+        "id": "A",
+        "text": "A. Quản lý chủng loại, số lượng. Quản lý chất lượng. Quản lý đồng bộ. Quản lý đặc điểm kỹ thuật. Quản lý tình hình cất chứa. Quản lý tình hình cất giữ"
+      },
+      {
+        "id": "B",
+        "text": "B. Quản lý quy hoạch sử dụng, kế hoạch sử dụng. Quản lý chủng loại, số lượng, chất lượng. Quản lý đồng bộ. Quản lý đặc điểm kỹ thuật. Quản lý bao bì, hòm hộp. Quản lý tình hình cất chứa. Quản lý tình hình cất giữ"
+      },
+      {
+        "id": "C",
+        "text": "C. Quản lý quy hoạch sử dụng, kế hoạch sử dụng. Quản lý chủng loại, số lượng. Quản lý chất lượng. Quản lý tình hình cất chứa. Quản lý tình hình cất giữ"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 137",
+    "text": "Nội dung xây dựng chính quy ngành Kỹ thuật ở đơn vị phòng hóa",
+    "options": [
+      {
+        "id": "A",
+        "text": "A. Hệ thống văn kiện kỹ thuật hóa học. Nền nếp, chế độ công tác kỹ thuật hóa học. Xây dựng chính quy cơ quan và cơ sở kỹ thuật hóa học"
+      },
+      {
+        "id": "B",
+        "text": "B. Hệ thống văn kiện kỹ thuật hóa học. Nền nếp, chế độ công tác kỹ thuật hóa học"
+      },
+      {
+        "id": "C",
+        "text": "C. Nền nếp, chế độ công tác kỹ thuật hóa học. Xây dựng chính quy cơ quan và cơ sở kỹ thuật hóa học"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Câu 138",
+    "text": "Có bao nhiêu chuyên ngành kỹ thuật",
+    "options": [
+      {
+        "id": "A",
+        "text": "16"
+      },
+      {
+        "id": "B",
+        "text": "17"
+      },
+      {
+        "id": "C",
+        "text": "18"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "Câu 139",
+    "text": "Quy định kiểm tra kỹ thuật trang bị hóa học có chứa hóa chất độc hại, nguy hiểm",
+    "options": [
+      {
+        "id": "A",
+        "text": "A. Thực hiện định kỳ hằng năm. Sau khi sử dụng. Khi phát hiện có nghi ngờ về chất lượng hoặc theo hướng dẫn của ngành nghiệp vụ"
+      },
+      {
+        "id": "B",
+        "text": "B. Thực hiện định kỳ hằng năm. Trước khi cất giữ. Khi phát hiện có nghi ngờ về chất lượng hoặc theo hướng dẫn của ngành nghiệp vụ"
+      },
+      {
+        "id": "C",
+        "text": "C. Thực hiện định kỳ hằng năm. Trước khi sử dụng. Khi phát hiện có nghi ngờ về chất lượng hoặc theo hướng dẫn của ngành nghiệp vụ"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "Câu 140",
+    "text": "Loại hình bảo quản cho xe máy đặc chủng hóa học",
+    "options": [
+      {
+        "id": "A",
+        "text": "A. Sử dụng thường xuyên. Thường trực thực hiện nhiệm vụ. Niêm cất ngắn hạn"
+      },
+      {
+        "id": "B",
+        "text": "B. Sử dụng thường xuyên. Thường trực thực hiện nhiệm vụ. Niêm cất dài hạn. Các loại xe máy đặc chủng hóa học có quy trình và định mức bảo quản riêng"
+      },
+      {
+        "id": "C",
+        "text": "C. Sử dụng thường xuyên. Các loại xe máy đặc chủng hóa học có quy trình và định mức bảo quản riêng"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 141",
+    "text": "Công tác bảo hộ lao động bao gồm những nội dung chủ yếu nào",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kỹ thuật an toàn; Vệ sinh lao động; Các chính sách, chế độ BHLĐ."
+      },
+      {
+        "id": "B",
+        "text": "Sử dụng trang bị bảo hộ; Vệ sinh lao động; Các chính sách, chế độ BHLĐ."
+      },
+      {
+        "id": "C",
+        "text": "Sử dụng trang bị bảo hộ; Vệ sinh cá nhân; Các chính sách, chế độ BHLĐ."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Câu 142",
+    "text": "Thời gian huấn luyện kỹ thuật cho cán bộ chỉ huy và cơ quan",
+    "options": [
+      {
+        "id": "A",
+        "text": "14 giờ"
+      },
+      {
+        "id": "B",
+        "text": "10 giờ"
+      },
+      {
+        "id": "C",
+        "text": "20 giờ"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Câu 143",
+    "text": "Trách nhiệm của người chỉ huy các cấp đối với công tác Huấn luyện kỹ thuật",
+    "options": [
+      {
+        "id": "A",
+        "text": "Người chỉ huy chịu trách nhiệm mọi mặt về HLKT của đợn vị thuộc quyền. Căn cứ chỉ lệnh, chỉ thị, hướng dẫn của cấp trên để xem xét phê duyệt kế hoạch HLKT, đồng thời tổ chức điều hành huấn luyện."
+      },
+      {
+        "id": "B",
+        "text": "Người chỉ huy căn cứ chỉ lệnh, chỉ thị, hướng dẫn của cấp trên để xem xét phê duyệt kế hoạch HLKT, đồng thời tổ chức điều hành huấn luyện."
+      },
+      {
+        "id": "C",
+        "text": "Người chỉ huy chịu trách nhiệm mọi mặt về HLKT của đợn vị và căn cứ chỉ lệnh, chỉ thị, hướng dẫn của cấp trên để xem xét phê duyệt kế hoạch HLKT, đồng thời tổ chức điều hành huấn luyện."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Câu 144",
+    "text": "Yêu cầu trong huấn luyện kỹ thuật",
+    "options": [
+      {
+        "id": "A",
+        "text": "Phải quán triệt đầy đủ quan điểm nguyên tắc, các mối kết hợp trong huấn luyện; phát huy sức mạnh của TBKT hiện có; xác định đúng đối tượng huấn luyện kỹ thuật."
+      },
+      {
+        "id": "B",
+        "text": "Phải quán triệt đầy đủ quan điểm nguyên tắc, các mối kết hợp trong huấn luyện; phát huy sức mạnh của TBKT hiện có; huấn luyện phải đúng nội dung, đủ thời gian theo quy định."
+      },
+      {
+        "id": "C",
+        "text": "Phải quán triệt đầy đủ quan điểm nguyên tắc, các mối kết hợp trong huấn luyện; xác định đúng đối tượng huấn luyện; huấn luyện phải đúng nội dung, đủ thời gian theo quy định."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "Câu 145",
+    "text": "Sự cố, TNLĐ gây ra hậu quả làm bị thương nặng 2 người thì được phân loại là:",
+    "options": [
+      {
+        "id": "A",
+        "text": "A"
+      },
+      {
+        "id": "B",
+        "text": "B"
+      },
+      {
+        "id": "C",
+        "text": "C"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Câu 146",
+    "text": "Các bước chuẩn bị máy RAID-M100 trước khi thực hiện nhiệm vụ",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kiểm tra đồng bộ - Lắp quai đeo - Lắp pin hoặc kết nối nguồn ngoài - Mở cổng khí - bật máy - Kiểm tra khả năng làm việc - Kiểm tra thong số và thiết lập chế độ hoạt động - Tắt máy"
+      },
+      {
+        "id": "B",
+        "text": "Kiểm tra đồng bộ - Lắp quai đeo - Lắp pin hoặc kết nối với máy tính - Mở cổng khí - bật máy - Kiểm tra thông số và thiết lập chế độ hoạt động - Kiểm tra khả năng làm việc- Tắt máy"
+      },
+      {
+        "id": "C",
+        "text": "Kiểm tra đồng bộ - Lắp quai đeo - Lắp pin hoặc kết nối nguồn ngoài - Bật máy - Mở cổng khí - Kiểm tra khả năng làm việc - Kiểm tra thong số và thiết lập chế độ hoạt động - Tiến hành trinh sát"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Câu 147",
+    "text": "Quy định về quản lý chìa khoá kho quân khí, do:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trực ban đơn vị và thủ kho quân khí"
+      },
+      {
+        "id": "B",
+        "text": "Chỉ huy đơn vị và thủ kho quân khí"
+      },
+      {
+        "id": "C",
+        "text": "Chỉ huy đơn vị, thủ kho và trực ban đơn vị."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "Câu 148",
+    "text": "Máy PM 1401K thực hiện đo suất liều bức xạ photon và mật độ dòng bức xạ a, β bằng:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Khối cảm biến đa năng lắp trong máy trên cơ sở ống đếm Geiger-Muller."
+      },
+      {
+        "id": "B",
+        "text": "Khối cảm biến trên cơ sở ống nhấp nháy CsI."
+      },
+      {
+        "id": "C",
+        "text": "Khối cảm biến trên cơ sở ống nhấp nháy NaI."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Câu 149",
+    "text": "Trong quá trình xếp dỡ, vận chuyển đạn dược, quy định người áp tải:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Có thể là thủ kho đạn dược, NVKT, nhân viên bảo vệ, chỉ huy đoàn vận tải."
+      },
+      {
+        "id": "B",
+        "text": "Có thể là thủ kho đạn dược, TLKT, nhân viên bảo vệ, chỉ huy đoàn vận tải."
+      },
+      {
+        "id": "C",
+        "text": "Có thể là thủ kho đạn dược, NVKT, nhân viên bảo vệ, người điều khiển phương tiện."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Câu 150",
+    "text": "Quy định về cất giữ súng K54 tại kho quân khí:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Đặt trong tủ súng."
+      },
+      {
+        "id": "B",
+        "text": "Đặt trong hòm có khoá và được đặt vào trong tủ súng."
+      },
+      {
+        "id": "C",
+        "text": "Đặt trong hòm có khoá và được gắn cố định trong tủ súng."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "Câu 151",
+    "text": "Quy định bảo đảm an toàn trong thực hành đánh bộc phá, nghiêm cấm:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lắp ngòi vào thân đạn, tra kíp dây cháy chậm, nụ xuỳ vào khối thuốc nổ tại nhà kho hoặc khu vực doanh trại sau đó vận chuyển ra khu vực thao trường."
+      },
+      {
+        "id": "B",
+        "text": "Tra kíp dây cháy chậm, nụ xuỳ vào khối thuốc nổ, mà chỉ được lắp ngòi vào thân đạn tại nhà kho hoặc khu vực doanh trại sau đó vận chuyển ra khu vực thao trường."
+      },
+      {
+        "id": "C",
+        "text": "Lắp ngòi vào thân đạn, mà chỉ được tra kíp dây cháy chậm, nụ xuỳ vào khối thuốc nổ tại nhà kho hoặc khu vực doanh trại sau đó vận chuyển ra khu vực thao trường"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "Câu 152",
+    "text": "Thông tư số 36/2019/TT-BLĐTBXH quy định các loại máy, thiết bị, vật tư nào sau đây có yêu cầu nghiêm ngặt về an toàn lao động đặc thù quân sự?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Máy dò thuốc nổ, hệ thống chữa cháy bằng khí, bình chữa cháy xách tay"
+      },
+      {
+        "id": "B",
+        "text": "Các loại thuốc nổ, phương tiện nổ, máy nén khí"
+      },
+      {
+        "id": "C",
+        "text": "Nồi hơi các loại, đường ống dẫn hơi nước, nước nóng"
+      }
+    ],
+    "answer": "B"
   }
 ];
 export default questions;
